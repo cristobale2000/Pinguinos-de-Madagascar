@@ -69,3 +69,7 @@ El proceso que involucra a los clientes en la aplicación del IoT en su celular 
 
 #### ¿Qué datos se generan y registran durante este proceso?
 La cantidad de datos que se intercambia entre el coche y el celular es muy alta y puede ser delicada para cierto público. Por lo que es necesaria una política muy fuerte de privacidad para evitar el espionaje y robo de datos. Entre estos datos se encuentran la ubicación del usuario en todo momento, las rutas que suele tomar, la ubicación de su vivienda, sus horarios, la información del vehículo y de sus productos de energía, entre otras. Esta problemática ya existe con el uso de los teléfonos inteligentes, pero al integrarlo a los vehículos de transporte toma mayor importancia el manejo de datos y privacidad.
+
+#### ¿Qué estándares están implicados en este modelo y cómo se usan?
+Algunos estándares que están implicados en el modelo IoT de tesla son: Actualizaciones de seguridad; actualizaciones periódicas después de comprar el vehículo, las cuales solicitan el consentimiento y son personalizables según necesidades e intereses a los usuarios. Tesla te permite acceder y controlar los datos que recopilan de ti y el vehículo.
+Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te proporcionan seguridad avanzada para la función “Autopilot”. Estándares para impactos que te otorgan seguridad para impactos frontales y laterales y muy bajo riesgo de volcadura.
