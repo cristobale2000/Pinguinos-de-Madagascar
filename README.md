@@ -73,3 +73,15 @@ La cantidad de datos que se intercambia entre el coche y el celular es muy alta 
 #### ¿Qué estándares están implicados en este modelo y cómo se usan?
 Algunos estándares que están implicados en el modelo IoT de tesla son: Actualizaciones de seguridad; actualizaciones periódicas después de comprar el vehículo, las cuales solicitan el consentimiento y son personalizables según necesidades e intereses a los usuarios. Tesla te permite acceder y controlar los datos que recopilan de ti y el vehículo.
 Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te proporcionan seguridad avanzada para la función “Autopilot”. Estándares para impactos que te otorgan seguridad para impactos frontales y laterales y muy bajo riesgo de volcadura.
+
+## 3. Síntesis de buenas prácticas en GitHub:
+
+## 4. Aplicación:
+
+#### Párrafo de explicación:
+
+#### Archivos descargables:
+
+#### Video demostrativo:
+
+## 5. Referencias:
