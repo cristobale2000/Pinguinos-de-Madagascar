@@ -20,10 +20,13 @@ Promover el uso del internet de las cosas así como facilitar su aplicación. Es
 
 ### General Electrics
 #### ¿Qué empresa es? ¿En qué sector se encuentra?
+El nombre de la empresa es General Electrics y se encuentra en el sector de electrónica, pero también trabaja en Internet Industrial
 
 #### ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
+Su uso de IoT se basa en el término conocido como “Internet Industrial”, en el cual se conectan dispositivos a los sectores de comercio y manufactura.  Se basa en el uso de una plataforma de software conocidas como Predix, que integra todos los datos que las máquinas con las tradicionales bases de datos generan y los que están en la nube.  Por ejemplo, la empresa tiene productos que organizan las operaciones de los hospitales u optimizan el combustible para aviones. 
 
 #### ¿Qué problemática o necesidad resuelve?
+La necesidad que resuelve es el aprovechamiento de las máquinas que se tienen para sincronizarlas con datos obtenidos y sacarles el mayor provecho, empleando el uso de datos en procesos industriales. 
 
 
 ### Amazon
@@ -48,9 +51,12 @@ Esta empresa ha brindado una plataforma y el hardware necesario para poder imple
 #### ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?
 Primero cada miembro del equipo explicó la empresa encontrada y su uso de IoT, con esto discutimos las diferentes empresas para ver cuál elegir. Finalmente elegimos Tesla por votación, pensamos que es una empresa que está creciendo mucho y es muy conocida, por lo que su uso de IoT puede interesarnos a todos en nuestras diferentes áreas profesionales. 
 La metodología que seleccionamos fue la de la empresa Tesla. Esta usa el internet de las cosas mediante la conexión del teléfono celular del usuario con su auto. A través del celular, el usuario puede dar órdenes como abrir la puerta del carro, prender las luces, o inclusive ordenar que el carro se mueva para recoger al usuario en el punto que desee. Esta metodología ayuda a la eficiencia en el manejo del tiempo del usuario y a través del IoT el manejo del vehículo se facilita bastante.
+
 #### ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
+Los beneficiarios de este modelo son los clientes de Tesla, es decir aquellos usuarios que  compran y utilizan el automóvil. 
 
 #### ¿Cuál es la propuesta de valor para estos públicos?
+Aparte de una propuesta de valor que beneficia mucho a la atmósfera y reduce la contaminación utilizando energía renovable, la empresa y su modelo de automóvil eléctrico le permite al usuario tener más facilidad al utilizar su carro. Es decir, poder estar en comunicación con él a través de su teléfono celular, para así poder conocer su localización, su batería, etc; permite una interacción directa del usuario con su automóvil. 
 
 #### ¿Cuál es el proceso que involucra a estos públicos?
 
