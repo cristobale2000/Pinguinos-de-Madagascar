@@ -1,5 +1,5 @@
 # Reporte #1 Pingüinos de Madagascar
-Página web diseñada por el equipo 1 (Pingüinos de Madagascar) para la entrega del primer reporte.
+Página web diseñada por el equipo 1 para la entrega del primer reporte.
 
 ## 1. Todas las empresas identificadas individualmente con modelos probados de tecnología IoT:
 ### Tesla
