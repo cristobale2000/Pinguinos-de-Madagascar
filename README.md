@@ -44,10 +44,13 @@ Esta empresa ha brindado una plataforma y el hardware necesario para poder imple
 
 ### Huawei
 #### ¿Qué empresa es? ¿En qué sector se encuentra?
+La empresa es Huawei y se encuentra en el sector de  electrónicos.
 
 #### ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
+Su modelo consiste en conexiones dentro de sus dispositivos. Ya que IoT se define por conexiones, entre sus productos destacan sus chips de IoT (Boudica), también ofrecen un sistema operativo IoT(Huawei LiteOS) para promover el desarrollo de dispositivos inteligentes. También Huawei ha construido una plataforma IoT abierta basada en la nube, Huawei Ocean Connect IoT Platform, que admite la implementación en la nube y todo tipo de conexiones, lo que garantiza una mayor confiabilidad y eficiencia.
 
 #### ¿Qué problemática o necesidad resuelve?
+IoT una de sus principales funciones es incrementar eficiencia, Huawei pronostica que para 2025 habrá 100 mil millones de dispositivos conectados, utilizados en todas las áreas de la vida y los negocios. Por lo que Huawei busca resolver problemáticas diarias ayudándote a tener una recolección de datos y control de dispositivos efectiva, te ayuda ahorrando tiempo para dedicarlo a algo más, con base a la gran cantidad de datos que se tienen a una mejor toma de decisiones, aumentar la velocidad en el análisis de datos y facilidad de seguimiento. En pocas palabras Huawei enfrenta la problemática de eficiencia en nuestro día a día.
 
 
 ## 2. El modelo de uso de IoT seleccionado colaborativamente:
