@@ -4,10 +4,13 @@ Entrega del primer reporte.
 ## 1. Todas las empresas identificadas individualmente con modelos probados de tecnología IoT:
 ### Tesla
 #### ¿Qué empresa es? ¿En qué sector se encuentra?
+La empresa elegida es TESLA MOTORS, la cual se encuentra principalmente en el sector automotriz, pero también trabaja en energía solar y limpia. 
 
 #### ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
+Su uso de IoT consiste en poder conectar tu celular con tu carro y con otros dispositivos. Lo cual tiene una gran variedad de funciones, desde ver la batería restante en tu celular, hasta pedirle a tu carro que pase por ti a la entrada del centro comercial. La pantalla táctil del carro contiene un gran número de aplicaciones que utilizan internet para su funcionamiento, por ejemplo NETFLIX. Los autos Tesla incluyen funciones de Autopilot, y funcionalidades de conducción autónoma.
 
 #### ¿Qué problemática o necesidad resuelve?
+Te da control total del vehículo lo cual  ayuda a la eficiencia en el manejo del tiempo del usuario, ya que te permite estar informado de datos técnicos de tu vehículo al instante, tan solo viendo tu celular.  Por lo que si existe una falla técnica, el carro notificará a tu celular en el momento.
 
 
 ### Tamboo
