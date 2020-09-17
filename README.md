@@ -44,6 +44,8 @@ Promover el uso del internet de las cosas así como facilitar su aplicación. Es
 
 ## 2. El modelo de uso de IoT seleccionado colaborativamente:
 #### ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?
+Primero cada miembro del equipo explicó la empresa encontrada y su uso de IoT, con esto discutimos las diferentes empresas para ver cuál elegir. Finalmente elegimos Tesla por votación, pensamos que es una empresa que está creciendo mucho y es muy conocida, por lo que su uso de IoT puede interesarnos a todos en nuestras diferentes áreas profesionales. 
+La metodología que seleccionamos fue la de la empresa Tesla. Esta usa el internet de las cosas mediante la conexión del teléfono celular del usuario con su auto. A través del celular, el usuario puede dar órdenes como abrir la puerta del carro, prender las luces, o inclusive ordenar que el carro se mueva para recoger al usuario en el punto que desee. Esta metodología ayuda a la eficiencia en el manejo del tiempo del usuario y a través del IoT el manejo del vehículo se facilita bastante.
 
 #### ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
 
