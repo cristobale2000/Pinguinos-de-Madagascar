@@ -53,6 +53,7 @@ La metodología que seleccionamos fue la de la empresa Tesla. Esta usa el intern
 #### ¿Cuál es la propuesta de valor para estos públicos?
 
 #### ¿Cuál es el proceso que involucra a estos públicos?
+El proceso que involucra a los clientes en la aplicación del IoT en su celular para poder controlar aspectos de su carro. Mediante simples acciones como el uso de tu celular, puedes tener un control total de tu auto, Tesla quiere implementar acciones de inteligencia y eficiencia a su auto, para mejorar y eficientizar el uso de este a sus clientes. Tesla implementa estas acciones dirigidas para tu teléfono celular lo cual lo hace muy inclusivo hacia todo su público, ya que es un dispositivo que la mayoría de la población posee.
 
 #### ¿Qué datos se generan y registran durante este proceso?
 La cantidad de datos que se intercambia entre el coche y el celular es muy alta y puede ser delicada para cierto público. Por lo que es necesaria una política muy fuerte de privacidad para evitar el espionaje y robo de datos. Entre estos datos se encuentran la ubicación del usuario en todo momento, las rutas que suele tomar, la ubicación de su vivienda, sus horarios, la información del vehículo y de sus productos de energía, entre otras. Esta problemática ya existe con el uso de los teléfonos inteligentes, pero al integrarlo a los vehículos de transporte toma mayor importancia el manejo de datos y privacidad.
