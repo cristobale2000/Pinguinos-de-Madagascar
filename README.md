@@ -104,7 +104,7 @@ Ya que el auto de Tesla tiene la capacidad de conectarse con el celular del usua
 <a href="https://proyectofinal-7afaa.firebaseio.com/">Liga a la base de datos en tiempo real</a>
 
 #### Video demostrativo:
-<a href="Video.mp4">Descarga el video demostrativo</a>
+<a href="Video.mp4">Video</a>
 ## 5. Referencias:
 - https://temboo.com/
 - https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/
