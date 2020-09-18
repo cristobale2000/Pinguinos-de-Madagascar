@@ -11,7 +11,7 @@ Entrega del reporte final.
 - [El modelo de uso de IoT seleccionado colaborativamente](##2.-El-modelo-de-uso-de-IoT-seleccionado-colaborativamente:)
 - [Síntesis de buenas prácticas en GitHub](##3.-Síntesis-de-buenas-prácticas-en-GitHub:)
 - [Aplicación](##4.-Aplicación:)
-- [Referencias](##5.-Referencias:)
+- [Referencias](##5.-referencias:)
 
 ## 1. Todas las empresas identificadas individualmente con modelos probados de tecnología IoT:
 ### Tesla
