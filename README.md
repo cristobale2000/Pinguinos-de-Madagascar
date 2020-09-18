@@ -93,9 +93,11 @@ Ya que el auto de Tesla tiene la capacidad de conectarse con el celular del usua
 #### Video demostrativo:
 
 ## 5. Referencias:
+- https://temboo.com/
+- https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/
+- https://youtu.be/4daTy4zjqiQ
 - https://cioperu.pe/fotoreportaje/16123/las-10-empresas-de-internet-de-las-cosas-mas-poderosas/?foto=5
 - https://www.tesla.com/es_MX/about/legal#tesla-updates
 - https://hipertextual.com/2020/03/5-apps-imprescindibles-propietarios-tesla
 - https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
 - https://deepsource.io/blog/git-best-practices/
-
