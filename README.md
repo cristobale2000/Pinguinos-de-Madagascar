@@ -1,6 +1,18 @@
 # Reporte final, El arte de la programación
 Entrega del reporte final.
 
+## Guía Rápida:
+1. [Todas las empresas identificadas individualmente con modelos probados de tecnología IoT](##1.-Todas-las empresas-identificadas-individualmente-con-modelos-probados-de-tecnología-IoT:)
+  - [Tesla](###Tesla)
+  - [Tamboo](###Tamboo)
+  - [General Electrics](###General-Electrics)
+  - [Amazon](###Amazon)
+  - [Huawei](###Huawei)
+2. [El modelo de uso de IoT seleccionado colaborativamente](##2.-El-modelo-de-uso-de-IoT-seleccionado-colaborativamente:)
+3. [Síntesis de buenas prácticas en GitHub](##3.-Síntesis-de-buenas-prácticas-en-GitHub:)
+4. [Aplicación](##4.-Aplicación:)
+5. [Referencias](##5.-Referencias:)
+
 ## 1. Todas las empresas identificadas individualmente con modelos probados de tecnología IoT:
 ### Tesla
 #### ¿Qué empresa es? ¿En qué sector se encuentra?
@@ -11,7 +23,6 @@ Su uso de IoT consiste en poder conectar tu celular con tu carro y con otros dis
 
 #### ¿Qué problemática o necesidad resuelve?
 Te da control total del vehículo lo cual  ayuda a la eficiencia en el manejo del tiempo del usuario, ya que te permite estar informado de datos técnicos de tu vehículo al instante, tan solo viendo tu celular.  Por lo que si existe una falla técnica, el carro notificará a tu celular en el momento.
-
 
 ### Tamboo
 #### ¿Qué empresa es? ¿En qué sector se encuentra?
@@ -30,7 +41,6 @@ Su uso de IoT se basa en el término conocido como “Internet Industrial”, en
 
 #### ¿Qué problemática o necesidad resuelve?
 La necesidad que resuelve es el aprovechamiento de las máquinas que se tienen para sincronizarlas con datos obtenidos y sacarles el mayor provecho, empleando el uso de datos en procesos industriales. 
-
 
 ### Amazon
 #### ¿Qué empresa es? ¿En qué sector se encuentra?
@@ -83,7 +93,6 @@ El comando commit captura los cambios realizados hasta ese momento para que se g
 5. Una vez que una confirmación se ha fusionado y es visible para otros colaboradores, se recomienda no alterar ese commit, ya que hacerlo es problemático para todos los que tienen acceso al repositorio.
 
 ## 4. Aplicación:
-
 #### Párrafo de explicación:
 La aplicación creada busca aplicar el Internet de las Cosas y las nuevas tecnologías al aprovechar los sensores de un smartphone, beneficiando al usuario. El usuario puede ingresar una velocidad máxima y la aplicación monitorea dicha velocidad a lo largo del trayecto. Para esto se utilizaron los sensores de ubicación y tiempo. Lo que hace la aplicación es que registra las velocidades a lo largo del trayecto en una base de datos externa. Posteriormente, calcula el promedio de las velocidades y cuenta la cantidad de veces que el usuario sobrepasó la velocidad límite. Estas dos cifras son desplegadas en la pantalla principal.
 
@@ -91,7 +100,8 @@ Ya que el auto de Tesla tiene la capacidad de conectarse con el celular del usua
 
 #### Archivos descargables:
 <p> <a href="ProyectoFinal.aia">ProyectoFinal.aia</a> </p>
-<a href="ProyectoFinal.apk">ProyectoFinal.apk</a>
+<p> <a href="ProyectoFinal.apk">ProyectoFinal.apk</a> </p>
+<a href="https://proyectofinal-7afaa.firebaseio.com/">Liga a la base de datos en tiempo real</a>
 
 #### Video demostrativo:
 
