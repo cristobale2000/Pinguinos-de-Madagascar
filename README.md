@@ -85,3 +85,6 @@ Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te 
 #### Video demostrativo:
 
 ## 5. Referencias:
+- https://temboo.com/
+- https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/
+- https://youtu.be/4daTy4zjqiQ
