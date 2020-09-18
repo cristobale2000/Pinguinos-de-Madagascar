@@ -85,11 +85,12 @@ El comando commit captura los cambios realizados hasta ese momento para que se g
 ## 4. Aplicación:
 
 #### Párrafo de explicación:
-La aplicación creada busca aplicar el Internet de las Cosas y las nuevas tecnologías al aprovechar los sensores de un smartphone en beneficio del usuario. El usuario puede ingresar la velocidad máxima a la que quiere ir, lo que hace la aplicación es checar las velocidades a las que avanza el usuario, las manda a una base de datos, esta la compara con el límite ingresado por el usuario, y regresa el promedio de velocidad, la velocidad máxima alcanzada para indicar si se ha pasado del limite o no. 
+La aplicación creada busca aplicar el Internet de las Cosas y las nuevas tecnologías al aprovechar los sensores de un smartphone, beneficiando al usuario. El usuario puede ingresar una velocidad máxima y la aplicación monitorea dicha velocidad a lo largo del trayecto. Para esto se utilizaron los sensores de ubicación y tiempo. Lo que hace la aplicación es que registra las velocidades a lo largo del trayecto en una base de datos externa. Posteriormente, calcula el promedio de las velocidades y cuenta la cantidad de veces que el usuario sobrepasó la velocidad límite. Estas dos cifras son desplegadas en la pantalla principal.
+
 Ya que el auto de Tesla tiene la capacidad de conectarse con el celular del usuario gracias al IoT, se quiere que con la aplicación el celular pueda indicar al carro y al usuario si ha pasado el limite de velocidad.
 
 #### Archivos descargables:
-<a href="ProyectoFinal.aia">ProyectoFinal.aia</a>
+<p> <a href="ProyectoFinal.aia">ProyectoFinal.aia</a> </p>
 <a href="ProyectoFinal.apk">ProyectoFinal.apk</a>
 
 #### Video demostrativo:
