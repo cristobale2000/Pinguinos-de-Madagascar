@@ -75,10 +75,18 @@ Algunos estándares que están implicados en el modelo IoT de tesla son: Actuali
 Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te proporcionan seguridad avanzada para la función “Autopilot”. Estándares para impactos que te otorgan seguridad para impactos frontales y laterales y muy bajo riesgo de volcadura.
 
 ## 3. Síntesis de buenas prácticas en GitHub:
+El comando commit captura los cambios realizados hasta ese momento para que se guarden en el proyecto que se está trabajando. Buenas prácticas sobre el GitHub se basan alrededor de este comando, ya que es uno de los principales comandos que se usan, algunas prácticas recomendadas son las siguientes:
+1. Realizar commits de un solo propósito y claros, ya que facilita que otras personas del equipo analicen su cambio, lo que hace que las revisiones de código sean más eficientes.
+2. Procura que el título y la descripción del commit sean claros, el propósito de la descripción es que describan de manera concisa qué cambios se están realizando, que la descripción esté clara hace la vida más fácil para los demás, así como para el que hace el commit.
+3. Nunca hagas un commit de código incompleto o incorrecto. Si se está trabajando en una tarea grande, intenta dividirla en asignaciones más pequeñas y asegurarse de que cada tarea esté completa. Además, es muy importante acostumbrarse a probar el código antes de hacer un commit.
+4. Es importante hacer commits en repetidas ocasiones siempre que sea necesario, GitHub trabaja a tu favor en la medida de que estar usando commit de una manera amplia es beneficioso para trabajo eficiente y ayuda a mantener el código actualizado con los últimos cambios para evitar conflictos.
+5. Una vez que una confirmación se ha fusionado y es visible para otros colaboradores, se recomienda no alterar ese commit, ya que hacerlo es problemático para todos los que tienen acceso al repositorio.
 
 ## 4. Aplicación:
 
 #### Párrafo de explicación:
+La aplicación creada busca aplicar el Internet de las Cosas y las nuevas tecnologías al aprovechar los sensores de un smartphone en beneficio del usuario. El usuario puede ingresar la velocidad máxima a la que quiere ir, lo que hace la aplicación es checar las velocidades a las que avanza el usuario, las manda a una base de datos, esta la compara con el límite ingresado por el usuario, y regresa el promedio de velocidad, la velocidad máxima alcanzada para indicar si se ha pasado del limite o no. 
+Ya que el auto de Tesla tiene la capacidad de conectarse con el celular del usuario gracias al IoT, se quiere que con la aplicación el celular pueda indicar al carro y al usuario si ha pasado el limite de velocidad.
 
 #### Archivos descargables:
 
@@ -88,3 +96,8 @@ Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te 
 - https://temboo.com/
 - https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/
 - https://youtu.be/4daTy4zjqiQ
+- https://cioperu.pe/fotoreportaje/16123/las-10-empresas-de-internet-de-las-cosas-mas-poderosas/?foto=5
+- https://www.tesla.com/es_MX/about/legal#tesla-updates
+- https://hipertextual.com/2020/03/5-apps-imprescindibles-propietarios-tesla
+- https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
+- https://deepsource.io/blog/git-best-practices/
