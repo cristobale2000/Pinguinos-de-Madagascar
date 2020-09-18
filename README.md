@@ -93,3 +93,5 @@ La aplicación creada busca aplicar el Internet de las Cosas y las nuevas tecnol
 
 ## 5. Referencias:
 https://cioperu.pe/fotoreportaje/16123/las-10-empresas-de-internet-de-las-cosas-mas-poderosas/?foto=5
+https://www.tesla.com/es_MX/about/legal#tesla-updates
+https://hipertextual.com/2020/03/5-apps-imprescindibles-propietarios-tesla
