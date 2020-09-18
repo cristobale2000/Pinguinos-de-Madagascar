@@ -9,9 +9,10 @@ Entrega del reporte final.
   - [Amazon](#amazon)
   - [Huawei](#huawei)
 - [El modelo de uso de IoT seleccionado colaborativamente](#2-el-modelo-de-uso-de-iot-seleccionado-colaborativamente)
-- [Síntesis de buenas prácticas en GitHub](#3-síntesis-de-buenas-prácticas-en-github)
-- [Aplicación](#4-aplicación)
-- [Referencias](#5-referencias)
+- [Guía de comandos en GitHub](#3-guía-de-comandos-en-github)
+- [Síntesis de buenas prácticas en GitHub](#4-síntesis-de-buenas-prácticas-en-github)
+- [Aplicación](#5-aplicación)
+- [Referencias](#6-referencias)
 
 ## 1. Todas las empresas identificadas individualmente con modelos probados de tecnología IoT:
 ### Tesla
@@ -83,8 +84,15 @@ La cantidad de datos que se intercambia entre el coche y el celular es muy alta 
 #### ¿Qué estándares están implicados en este modelo y cómo se usan?
 Algunos estándares que están implicados en el modelo IoT de tesla son: Actualizaciones de seguridad; actualizaciones periódicas después de comprar el vehículo, las cuales solicitan el consentimiento y son personalizables según necesidades e intereses a los usuarios. Tesla te permite acceder y controlar los datos que recopilan de ti y el vehículo.
 Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te proporcionan seguridad avanzada para la función “Autopilot”. Estándares para impactos que te otorgan seguridad para impactos frontales y laterales y muy bajo riesgo de volcadura.
+## 3. Guía de comandos en GitHub:
+- Utilizar archivo "README.md" para escribir lo que se desplegará en la página web
+- Usar '#' para indicar un nuevo encabezado (A mayor cantidad de #, menor será el tamaño del encabezado)
+- Usar '-' o '*' pra iniciar una lista no ordenada
+- Utilizar enumeración para iniciar una lista ordenada
+  - Al indentar usando dos espacios, se crea una lista anidada
+- Utilizar '["Nombre"]'  '("Liga")' para agregar un vínculo
 
-## 3. Síntesis de buenas prácticas en GitHub:
+## 4. Síntesis de buenas prácticas en GitHub:
 El comando commit captura los cambios realizados hasta ese momento para que se guarden en el proyecto que se está trabajando. Buenas prácticas sobre el GitHub se basan alrededor de este comando, ya que es uno de los principales comandos que se usan, algunas prácticas recomendadas son las siguientes:
 1. Realizar commits de un solo propósito y claros, ya que facilita que otras personas del equipo analicen su cambio, lo que hace que las revisiones de código sean más eficientes.
 2. Procura que el título y la descripción del commit sean claros, el propósito de la descripción es que describan de manera concisa qué cambios se están realizando, que la descripción esté clara hace la vida más fácil para los demás, así como para el que hace el commit.
@@ -92,7 +100,7 @@ El comando commit captura los cambios realizados hasta ese momento para que se g
 4. Es importante hacer commits en repetidas ocasiones siempre que sea necesario, GitHub trabaja a tu favor en la medida de que estar usando commit de una manera amplia es beneficioso para trabajo eficiente y ayuda a mantener el código actualizado con los últimos cambios para evitar conflictos.
 5. Una vez que una confirmación se ha fusionado y es visible para otros colaboradores, se recomienda no alterar ese commit, ya que hacerlo es problemático para todos los que tienen acceso al repositorio.
 
-## 4. Aplicación:
+## 5. Aplicación:
 #### Párrafo de explicación:
 La aplicación creada busca aplicar el Internet de las Cosas y las nuevas tecnologías al aprovechar los sensores de un smartphone, beneficiando al usuario. El usuario puede ingresar una velocidad máxima y la aplicación monitorea dicha velocidad a lo largo del trayecto. Para esto se utilizaron los sensores de ubicación y tiempo. Lo que hace la aplicación es que registra las velocidades a lo largo del trayecto en una base de datos externa. Posteriormente, calcula el promedio de las velocidades y cuenta la cantidad de veces que el usuario sobrepasó la velocidad límite. Estas dos cifras son desplegadas en la pantalla principal.
 
@@ -105,7 +113,7 @@ Ya que el auto de Tesla tiene la capacidad de conectarse con el celular del usua
 
 #### Video demostrativo:
 <a href="Video.mp4">Video</a>
-## 5. Referencias:
+## 6. Referencias:
 - https://temboo.com/
 - https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/
 - https://youtu.be/4daTy4zjqiQ
