@@ -93,7 +93,7 @@ Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te 
 - Utilizar ["Nombre"]  ("Liga") para agregar un vínculo
 - Encerrar texto en * "Texto" * para desplegarlo en cursiva: *Texto*
 - Encerrar texto en ** "Texto" ** para desplegarlo en negritas: **Texto**
-- Encerrar texto en *** "Texto" *** para desplegarlo en negritas y cursiva: ***Texto***
+- Encerrar texto en ***** "Texto" *** para desplegarlo en negritas y cursiva: ***Texto***
 - Encerrar texto en ~~ "Texto" ~~ para tacharlo: ~~Texto~~
 
 ## 4. Síntesis de buenas prácticas en GitHub:
