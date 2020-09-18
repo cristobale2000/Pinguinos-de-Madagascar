@@ -99,12 +99,12 @@ La aplicación creada busca aplicar el Internet de las Cosas y las nuevas tecnol
 Ya que el auto de Tesla tiene la capacidad de conectarse con el celular del usuario gracias al IoT, se quiere que con la aplicación el celular pueda indicar al carro y al usuario si ha pasado el limite de velocidad.
 
 #### Archivos descargables:
-<p> <a href="ProyectoFinal.aia">ProyectoFinal.aia</a> </p>
-<p> <a href="ProyectoFinal.apk">ProyectoFinal.apk</a> </p>
+<p> <a href="ProyectoFinal.aia">Descarga el archivo ProyectoFinal.aia</a> </p>
+<p> <a href="ProyectoFinal.apk">Descarga el archivo ProyectoFinal.apk</a> </p>
 <a href="https://proyectofinal-7afaa.firebaseio.com/">Liga a la base de datos en tiempo real</a>
 
 #### Video demostrativo:
-
+<a href="Video.mp4">Descarga el video demostrativo</a>
 ## 5. Referencias:
 - https://temboo.com/
 - https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/
