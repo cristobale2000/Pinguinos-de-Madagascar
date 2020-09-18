@@ -75,6 +75,12 @@ Algunos estándares que están implicados en el modelo IoT de tesla son: Actuali
 Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te proporcionan seguridad avanzada para la función “Autopilot”. Estándares para impactos que te otorgan seguridad para impactos frontales y laterales y muy bajo riesgo de volcadura.
 
 ## 3. Síntesis de buenas prácticas en GitHub:
+El comando commit captura los cambios realizados hasta ese momento para que se guarden en el proyecto que se está trabajando. Buenas prácticas sobre el GitHub se basan alrededor de este comando, ya que es uno de los principales comandos que se usan, algunas prácticas recomendadas son las siguientes:
+1. Realizar commits de un solo propósito y claros, ya que facilita que otras personas del equipo analicen su cambio, lo que hace que las revisiones de código sean más eficientes.
+2. Procura que el título y la descripción del commit sean claros, el propósito de la descripción es que describan de manera concisa qué cambios se están realizando, que la descripción esté clara hace la vida más fácil para los demás, así como para el que hace el commit.
+3. Nunca hagas un commit de código incompleto o incorrecto. Si se está trabajando en una tarea grande, intenta dividirla en asignaciones más pequeñas y asegurarse de que cada tarea esté completa. Además, es muy importante acostumbrarse a probar el código antes de hacer un commit.
+4. Es importante hacer commits en repetidas ocasiones siempre que sea necesario, GitHub trabaja a tu favor en la medida de que estar usando commit de una manera amplia es beneficioso para trabajo eficiente y ayuda a mantener el código actualizado con los últimos cambios para evitar conflictos.
+5. Una vez que una confirmación se ha fusionado y es visible para otros colaboradores, se recomienda no alterar ese commit, ya que hacerlo es problemático para todos los que tienen acceso al repositorio.
 
 ## 4. Aplicación:
 
