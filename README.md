@@ -9,7 +9,7 @@ Entrega del reporte final.
   - [Amazon](#amazon)
   - [Huawei](#huawei)
 - [El modelo de uso de IoT seleccionado colaborativamente](#2-el-modelo-de-uso-de-iot-seleccionado-colaborativamente)
-- [Síntesis de buenas prácticas en GitHub](#3-Síntesis-de-buenas-prácticas-en-github)
+- [Síntesis de buenas prácticas en GitHub](#3-síntesis-de-buenas-prácticas-en-github)
 - [Aplicación](#4-aplicación)
 - [Referencias](#5-referencias)
 
