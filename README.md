@@ -90,7 +90,11 @@ Estándares de seguridad; el vehículo posee 12 sensores de ultrasonido, que te 
 - Usar '-' o '*' pra iniciar una lista no ordenada
 - Utilizar enumeración para iniciar una lista ordenada
   - Al indentar usando dos espacios, se crea una lista anidada
-- Utilizar '["Nombre"]'  '("Liga")' para agregar un vínculo
+- Utilizar ["Nombre"]  ("Liga") para agregar un vínculo
+- Encerrar texto en * "Texto" * para desplegarlo en cursiva: *Texto*
+- Encerrar texto en ** "Texto" ** para desplegarlo en negritas: **Texto**
+- Encerrar texto en *** "Texto" *** para desplegarlo en negritas y cursiva: ***Texto***
+- Encerrar texto en ~~ "Texto" ~~ para tacharlo: ~~Texto~~
 
 ## 4. Síntesis de buenas prácticas en GitHub:
 El comando commit captura los cambios realizados hasta ese momento para que se guarden en el proyecto que se está trabajando. Buenas prácticas sobre el GitHub se basan alrededor de este comando, ya que es uno de los principales comandos que se usan, algunas prácticas recomendadas son las siguientes:
