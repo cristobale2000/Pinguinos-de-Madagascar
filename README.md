@@ -2,7 +2,7 @@
 Entrega del reporte final.
 
 ## Guía Rápida:
-- [Todas las empresas identificadas individualmente con modelos probados de tecnología IoT](##Todas-las empresas-identificadas-individualmente-con-modelos-probados-de-tecnología-IoT:)
+- [Todas las empresas identificadas individualmente con modelos probados de tecnología IoT](##1.-Todas-las-empresas-identificadas-individualmente-con-modelos-probados-de-tecnología-IoT-:)
   - [Tesla](###Tesla)
   - [Tamboo](###Tamboo)
   - [General Electrics](###General-Electrics)
