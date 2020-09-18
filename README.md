@@ -85,9 +85,13 @@ El comando commit captura los cambios realizados hasta ese momento para que se g
 ## 4. Aplicación:
 
 #### Párrafo de explicación:
+La aplicación creada busca aplicar el Internet de las Cosas y las nuevas tecnologías al aprovechar los sensores de un smartphone en beneficio del usuario. El usuario ingresa la velocidad límite a la que se quiere desplazar en su trayecto, la aplicación detecta las velocidades a las que se desplaza el usuario en su automovil, las manda a la base de datos, en la base de datos se comparan las velocidades detectadas con el límite ingresado por el usuario, al concluir su trayctoria, la aplicación despliga el promedio de velocidad y la cantidad de veces que se excedió del límte el usuario.
 
 #### Archivos descargables:
 
 #### Video demostrativo:
 
 ## 5. Referencias:
+https://cioperu.pe/fotoreportaje/16123/las-10-empresas-de-internet-de-las-cosas-mas-poderosas/?foto=5
+https://www.tesla.com/es_MX/about/legal#tesla-updates
+https://hipertextual.com/2020/03/5-apps-imprescindibles-propietarios-tesla
