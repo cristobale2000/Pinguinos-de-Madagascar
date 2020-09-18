@@ -2,16 +2,16 @@
 Entrega del reporte final.
 
 ## Guía Rápida:
-1. [Todas las empresas identificadas individualmente con modelos probados de tecnología IoT](##1.-Todas-las empresas-identificadas-individualmente-con-modelos-probados-de-tecnología-IoT:)
+- [Todas las empresas identificadas individualmente con modelos probados de tecnología IoT](##1.-Todas-las empresas-identificadas-individualmente-con-modelos-probados-de-tecnología-IoT:)
   - [Tesla](###Tesla)
   - [Tamboo](###Tamboo)
   - [General Electrics](###General-Electrics)
   - [Amazon](###Amazon)
   - [Huawei](###Huawei)
-2. [El modelo de uso de IoT seleccionado colaborativamente](##2.-El-modelo-de-uso-de-IoT-seleccionado-colaborativamente:)
-3. [Síntesis de buenas prácticas en GitHub](##3.-Síntesis-de-buenas-prácticas-en-GitHub:)
-4. [Aplicación](##4.-Aplicación:)
-5. [Referencias](##5.-Referencias:)
+- [El modelo de uso de IoT seleccionado colaborativamente](##2.-El-modelo-de-uso-de-IoT-seleccionado-colaborativamente:)
+- [Síntesis de buenas prácticas en GitHub](##3.-Síntesis-de-buenas-prácticas-en-GitHub:)
+- [Aplicación](##4.-Aplicación:)
+- [Referencias](##5.-Referencias:)
 
 ## 1. Todas las empresas identificadas individualmente con modelos probados de tecnología IoT:
 ### Tesla
